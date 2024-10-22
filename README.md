@@ -39,7 +39,7 @@
   </a>
 </p>
 
-|
+
 <!-- Streak feature -->
 <h3>STREAK FEATURE 🚀🚀</h3>
 <p align="center">
